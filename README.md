@@ -19,9 +19,11 @@ f) -
 ## 3. Peer Review Checklist (2 SP) 
 *Smartbear has made a “Best practices for Code Review. One of the things on their list is to use checklists in the review process (tip #6). Explain their checklist in your own words, make comments on what you especially find useful in the list and possibly provide with examples.* 
 
-Set Early Expectations With The Developer About Annotating Their Source Code Before The Review
+My reflection:
 
-(1).By having the author carefully read through and annotate their own code,
+(1).Set Early Expectations With The Developer About Annotating Their Source Code Before The Review
+
+By having the author carefully read through and annotate their own code,
 prior to giving it to their team for review, fewer defects were found.
 
 
