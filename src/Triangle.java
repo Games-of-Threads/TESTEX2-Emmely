@@ -14,10 +14,9 @@ public class Triangle {
         return s[0] + s[1] > s[2] && s[0] + s[2] > s[1] && s[1] + s[2] > s[0] && s[0] > 0 && s[1] > 0 && s[2] > 0;
     }
 
-    public TriangleType CalculateTriangleType() {
-
+    public TriangleType CalculateTriangleType() throws IllegalArgumentException{
         if (!AmITriangle()) {
-            return TriangleType.Error;
+            throw new IllegalArgumentException("Hey!!!, invalid sides for a triangle. Cannot make up a triangle!");
         }
         if (AmIEquilateral()) {
             return TriangleType.Equilateral;
@@ -39,7 +38,6 @@ public class Triangle {
 
 
     public enum TriangleType {
-        Error,
         Equilateral,
         Isoceles,
         Scalene
@@ -50,10 +48,5 @@ public class Triangle {
         return sides;
     }
 
-    public void setSides(double[] sides) {
-        this.sides = sides;
-        if (!AmITriangle()) {
-            throw new IllegalArgumentException("Hey!!!, invalid sides for a triangle. Cannot make up a triangle!");
-        }
-    }
+
 }
