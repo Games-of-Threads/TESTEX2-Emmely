@@ -8,7 +8,7 @@
 [![https://gyazo.com/88a23d5915a2b86ad233b261a42e85fb](https://i.gyazo.com/88a23d5915a2b86ad233b261a42e85fb.png)](https://gyazo.com/88a23d5915a2b86ad233b261a42e85fb)
 
 ###### *c) Calculate central metrics in your Triangle program – make screen dump* 
-[![https://gyazo.com/05956fc247ca143da41a8f1992e78b29](https://i.gyazo.com/05956fc247ca143da41a8f1992e78b29.png)](https://gyazo.com/05956fc247ca143da41a8f1992e78b29)
+[![https://gyazo.com/b9eac1e4d63a936e1e142860dd8bd791](https://i.gyazo.com/b9eac1e4d63a936e1e142860dd8bd791.png)](https://gyazo.com/b9eac1e4d63a936e1e142860dd8bd791)
 
 ###### *d) Find out what CC variation that your metrics tool uses*
 The right column uses CC2 and the middle column uses CC.
@@ -17,7 +17,8 @@ The right column uses CC2 and the middle column uses CC.
 -
 
 ###### *f) Write test cases in xUnit tool. Possibly refactor your code once (or twice more) in order to make the tests pass!*
--
+I have used Javas jUnit4 library to write [test cases](https://github.com/Games-of-Threads/TESTEX2-Emmely/blob/master/tests/TriangleTest.java).
+
 
 
 
