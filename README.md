@@ -101,9 +101,12 @@ In class Catalog
 
 ##### Coding standards that I find the most important:
 	
-1) Correctly indent the code according to the programming language.
-2) Use best practices for the specific language for naming conversions.
-3) Use best practices for naming and structuring files and folders. For example structure third party library in a separate folder according to best practice.
+1) Correctly and consistent indent the code according to the programming language.
+2) Consistent naming conversions, according to best practise. CamelCase is usually best practice for JAVA and JavaScript. Spme properties within the language as special naming conversions such as constants that we usually capitalize in Java and JavaScript
+3) Best practices for naming and structuring files and folders. For example structure third party library in a separate folder according to best practice. 
+4) Code Refactoring. Refactoring for example when methods functions or files become to lengthy we should refactoring the code. refactor early, refactor often.
+5) Capitalize SQL Special Words. To avoid confusion.
+6) Use same file format ans white space. Different file formats and white spaces in a team can lead to unnecessary git conflicts on code merge.
 
 
 
