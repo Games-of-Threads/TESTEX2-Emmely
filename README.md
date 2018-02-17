@@ -128,19 +128,17 @@ This statistics and facts were new to me, an eye opener for me personally.
 She showed for every phase we introduce more bugs and the total adds up to a very big number in the final product.
 We need to avoid bugs being created as early as possible starting with Requirements. 
 Creating Test Cases of the Requirements is one way to make sure we have understood the Requirements and avoiding bugs.
-Talking through the Requirements and Test Cases with users and stakeholders we make sure we understand what they need and that we as Software Developers don't make our own assumptions and interpretations.
+By talking through the Requirements and Test Cases with users and stakeholders we make sure that we understand what they need and that we as Software Developers don't make our own assumptions and interpretations.
 User stories leads to Acceptance Criteria. The Acceptance Criteria is our Software Requirements (something we must remember).
 The Acceptance criteria should be SMART, Specific, Measurable, Achievable, Relevant, Time Specific.
 
 ##### Our job as Software Developers is to create customer value
 
 As developer this is our job and something we must keep in mind all the time.
-This is alsp stated in the [Agile Manifesto](http://agilemanifesto.org/).
-
-##### Being Agile
+Stated in the [Agile Manifesto](http://agilemanifesto.org/) and something Gitte brought up.
 
 She also stressed the importance of Agile manifesto. And pointed out that Agile is a way of thinking.
-And we should aim at having this way of thinking and not just knowing what Agile is or thinging that we work Agile when we don't have the Agile way of thinking. 
+And we should aim at having this way of thinking and not just knowing what Agile is or think that we work Agile when we don't have the Agile way of thinking. 
 Knowing the agile manifesto and doing it are different things.
 It's more important than ever (because of time to market becoming important factor) to work agile and testing is a part of that.
 Testing should not me done in a different department by test specialized team. It should be as close to the the development team as possible in Agile.
