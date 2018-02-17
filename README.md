@@ -27,16 +27,17 @@ The right column uses CC2 and the middle column uses CC.
 
 My reflection:
 
-(1).Set Early Expectations With The Developer About Annotating Their Source Code Before The Review
+> (1). Set Early Expectations With The Developer About Annotating Their Source Code Before The Review
 
 By having the author carefully read through and annotate their own code,
 prior to giving it to their team for review, fewer defects were found.
 
 
 
-(10).Do A Certain Amount Of Code Review Each Day, Even If It's Not Every Line.
-It's state that "A developer will be more conscientious of their own code 
-beforecode-complete is declared because it's known a team of developers will be reviewing the code daily."
+> (10).Do A Certain Amount Of Code Review Each Day, Even If It's Not Every Line.
+It's state that 
+> "A developer will be more conscientious of their own code 
+> beforecode-complete is declared because it's known a team of developers will be reviewing the code daily."
 
 
 My reflection on point 1 and 10 is that they both make the programmer more reflective of and conscious
@@ -48,9 +49,9 @@ A daily interaction helps clarify requirements and technical implementation.
 In Agile we strive as much as possible for transparency and communication.
 
 
-(3). Have A System To Capture Metrics So You Can Improve Your Processes
+> (3). Have A System To Capture Metrics So You Can Improve Your Processes
 
-*"Quantifiable Metrics allows you to judge how effective and efficient the code review precess is for you team."*
+> "Quantifiable Metrics allows you to judge how effective and efficient the code review precess is for you team."
 
 The metrics should be something that could be measured in a indisputable way. It's important because we want to know that the time we put into a process adds value.
 Our goal is to deliver good quality software. Lesser issue reports from customer could be such a metrics to messure that.
