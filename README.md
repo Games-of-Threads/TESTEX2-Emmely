@@ -1,5 +1,5 @@
 # TESTEX2-Emmely
-## 1
+## 1 9.5
 ## 2. Static Code Analysis of Triangle program (4 SP) 
 ###### *a) Install Metrics software in your IDE (see tool examples in slides)* 
 [![https://gyazo.com/e09dacb427a1d5cd0a08226e18b71ac9](https://i.gyazo.com/e09dacb427a1d5cd0a08226e18b71ac9.png)](https://gyazo.com/e09dacb427a1d5cd0a08226e18b71ac9)
