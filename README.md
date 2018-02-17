@@ -25,6 +25,9 @@ The right column uses CC2 and the middle column uses CC.
 ## 3. Peer Review Checklist (2 SP) 
 ###### *Smartbear has made a “Best practices for Code Review. One of the things on their list is to use checklists in the review process (tip #6). Explain their checklist in your own words, make comments on what you especially find useful in the list and possibly provide with examples.* 
 
+The SmartBear Checklist compiles tips and bests practices when it comes to code reviewing. 
+It is guidelines to follow to obtain most out of code reviewing. But also guidelines that will make reviewing effective and bring more value & money for the effort.
+
 My reflection:
 
 > (1). Set Early Expectations With The Developer About Annotating Their Source Code Before The Review
@@ -98,9 +101,10 @@ In class Catalog
 
 ##### Coding standards that I find the most important:
 	
-1) Correctly indent the code.
+1) Correctly indent the code according to the programming language.
 2) Use best practices for the specific language for naming conversions.
-3) Use best practices for naming and structuring files and folders.
+3) Use best practices for naming and structuring files and folders. For example structure third party library in a separate folder according to best practice.
+
 
 
 
