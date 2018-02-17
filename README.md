@@ -137,7 +137,7 @@ The Acceptance criteria should be SMART, Specific, Measurable, Achievable, Relev
 As developer this is our job and something we must keep in mind all the time.
 Stated in the [Agile Manifesto](http://agilemanifesto.org/) and something Gitte brought up.
 
-She also stressed the importance of Agile manifesto. And pointed out that Agile is a way of thinking.
+She stressed the importance of Agile manifesto. And pointed out that Agile is a way of thinking.
 And we should aim at having this way of thinking and not just knowing what Agile is or think that we work Agile when we don't have the Agile way of thinking. 
 Knowing the agile manifesto and doing it are different things.
 It's more important than ever (because of time to market becoming important factor) to work agile and testing is a part of that.
