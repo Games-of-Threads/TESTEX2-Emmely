@@ -23,19 +23,20 @@ The right column uses CC2 and the middle column uses CC.
 
 
 ## 3. Peer Review Checklist (2 SP) 
-###### *Smartbear has made a “Best practices for Code Review. One of the things on their list is to use checklists in the review process (tip #6). Explain their checklist in your own words, make comments on what you especially find useful in the list and possibly provide with examples.* 
+###### *SmartBear has made a “Best practices for Code Review. One of the things on their list is to use checklists in the review process (tip #6). Explain their checklist in your own words, make comments on what you especially find useful in the list and possibly provide with examples.* 
 
-The SmartBear Checklist compiles tips and bests practices when it comes to code reviewing. 
-It is guidelines to follow to obtain most out of code reviewing. But also guidelines that will make reviewing effective and bring more value & money for the effort.
+[The SmartBear Checklist](https://smartbear.com/learn/code-review/guide-to-code-review-process/) compiles tips and bests practices when it comes to code reviewing. 
+It is guidelines to follow to obtain most out of code reviewing process thus making reviewing effective and bring more value & money for the effort.
 
-My reflection:
+Here are what I find most useful and some examples:
 
 > (1). Set Early Expectations With The Developer About Annotating Their Source Code Before The Review
 
-By having the author carefully read through and annotate their own code,
-prior to giving it to their team for review, fewer defects were found.
+> By having the author carefully read through and annotate their own code,
+> prior to giving it to their team for review, fewer defects were found.
 
-
+My reflection on point 1 is that the annotation in the code automatically leads to better code standard and comments in the code.
+This in turn could make the code easier to read and maintain by other developers in the future. 
 
 > (10).Do A Certain Amount Of Code Review Each Day, Even If It's Not Every Line.
 It's state that 
@@ -47,9 +48,9 @@ My reflection on point 1 and 10 is that they both make the programmer more refle
 of his/her work thus self improving their own code.
 
 My reflection regarding point 10 is also that a daily interaction to review code also opens up for
-questions. Lets say that a programmer is in doubt of either Requirements or the solution or implementation.
+questions. Lets say that a programmer is in doubt of either Requirements, the solution or implementation.
 A daily interaction helps clarify Requirements and technical implementation.
-In Agile we strive as much as possible for transparency and communication.
+In Agile we strive as much as possible for interaction and communication.
 
 
 > (3). Have A System To Capture Metrics So You Can Improve Your Processes
@@ -57,7 +58,7 @@ In Agile we strive as much as possible for transparency and communication.
 > "Quantifiable Metrics allows you to judge how effective and efficient the code review precess is for you team."
 
 The metrics should be something that could be measured in a indisputable way. It's important because we want to know that the time we put into a process adds value.
-Our goal is to deliver good quality software. Lesser issue reports from customer could be such a metrics to messure that.
+Our goal is to deliver good quality software. Lesser issue reports from customer could be such a metrics to measure that the code reviewing process leads to that.
 
 
 
