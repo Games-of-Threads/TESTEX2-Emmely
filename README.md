@@ -26,7 +26,9 @@ The right column uses CC2 and the middle column uses CC.
 ###### *SmartBear has made a “Best practices for Code Review. One of the things on their list is to use checklists in the review process (tip #6). Explain their checklist in your own words, make comments on what you especially find useful in the list and possibly provide with examples.* 
 
 [The SmartBear Checklist](https://smartbear.com/learn/code-review/guide-to-code-review-process/) compiles tips and bests practices when it comes to code reviewing. 
-It is guidelines to follow to obtain most out of code reviewing process thus making reviewing effective and bring more value & money for the effort.
+They are guidelines to follow to obtain most out of code reviewing process thus making reviewing more effective and bring more value such as creating better quality code and finding bugs early. 
+Finding bugs in the review process is much cheaper than finding them later down the lines. 
+This is why code reviewing is such an important process. The checklist helps us do the process in a effective and professional way where we also take into consideration the person being reviewed.
 
 Here are what I find most useful and some examples:
 
