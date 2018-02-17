@@ -75,8 +75,9 @@ The reason for this is that
 
 1) We don't have a test in addingAMinorShouldThrowException() to capture the fact that a person under 18 is being added to the list.
 We don't discover that until the second test where we see that the list is not empty.
-To fix it add assertion statement after the method addPerson has been called.
-In class TestCatalog:
+```
+//To fix it add assertion statement after the method addPerson has been called.
+//In class TestCatalog:
 
     @Test(expected = IllegalArgumentException.class)     
 	public void addingAMinorShouldThrowException() {         
@@ -85,12 +86,12 @@ In class TestCatalog:
 		underTest.addPerson(p);
 		assertEquals(0, underTest.getNrOfPeople());          
 	
-	}
+	}```
 	
 2) We are missing an else statement in the code under test.
-
-Wrap the addPerson method in a else statement
-In class Catalog	
+```
+//Wrap the addPerson method in a else statement
+//In class Catalog	
 	public void addPerson(Person person) { 
 		if (Calendar.getInstance().get(Calendar.YEAR)-person.getYearOfBirth() < 18){ 
 			throw new IllegalArgumentException("Only adults admitted."); 
@@ -98,7 +99,7 @@ In class Catalog
 		else{	
 			people.add(person);     
 		}
-	}
+	}```
 
 
 ## 5. Coding Standard Document (1 SP) 
