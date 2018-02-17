@@ -87,7 +87,9 @@ In class TestCatalog:
 	
 	}
 	
-2) Wrap method in a else statement
+2) We are missing an else statement in the code under test.
+
+Wrap the addPerson method in a else statement
 In class Catalog	
 	public void addPerson(Person person) { 
 		if (Calendar.getInstance().get(Calendar.YEAR)-person.getYearOfBirth() < 18){ 
