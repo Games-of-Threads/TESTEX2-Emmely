@@ -107,24 +107,13 @@ In class Catalog
 ## 6. Highlights from lecture by Gitte Ottosen, Gapgemini-Sogeti  (1 SP) 
 ###### *Describe the three most essential things – in your opinion - that were mentioned in the guest lecture on February 12th (½-1 page description).* 
 
-This is what I got out of the presentation. This are my own interpretations. 
+Here are the three most essential things mentioned during the presentation in my own interpretation: 
 
-Some note worthy thing that I noted down:
 ##### Build quality in - because it's cheaper
-We should use tools out there to assure quality. Unit test and automated tests, continues delivery and integration tools and other tools to assure our quality. 
-##### Avoid bugs early
-Gitte showed slides of how most of the Software "bugs" are created in the Requirements phase.
-And that then in the implementation phase even more bug and the total adds up to a very big number.
-We need to avoid bugs being created as early as possible starting with requirements. 
-Making test cases of the requirements Use Cases is one way to find that we have understood the requirements.
-Talk through requirements and test cases with users and stakeholders make sure we understand what they need and that we don't make assumptions.
-User stories leads to Acceptance Criteria. The acceptance criteria is our requirements.
-The Acceptance criteria should be SMART, Specific, Measurable, Achievable, Relevant, Time Specific.
-##### Our job as Software Developers is to create customer value
-As developer this is our job and something we must keep in mind all the time.
 
+As software developers it's a must to use tools like Unit test and automated tests, continues delivery and integration tools and other tools to assure quality in software. 
 
-##### Testing techniques she highlighted
+Minimum testing that should be performed on any software:
 
 I understood that these techniques is what we should have as a minimum when developing software:
 - Review
@@ -132,11 +121,30 @@ I understood that these techniques is what we should have as a minimum when deve
 - Exploratory test of user stories
 - Automated regression test - Testing GUI
 
+##### Avoid bugs early
+
+Gitte showed slides of how most of the Software "bugs" are created in the Requirements phase when the software when he software hasn't even been developed.
+This was a eye opener for me personally. I didn't know that there exist this kind of statistics.
+She showed for every phase we introduce more bugs and the total adds up to a very big number in the final product.
+We need to avoid bugs being created as early as possible starting with requirements. 
+Making test cases of the requirements Use Cases is one way to find that we have understood the requirements.
+Talk through requirements and test cases with users and stakeholders make sure we understand what they need and that we as software devepers don't make our own assumptions and interpretations.
+User stories leads to Acceptance Criteria. The Acceptance Criteria is our Software Requirements (something we must remember).
+The Acceptance criteria should be SMART, Specific, Measurable, Achievable, Relevant, Time Specific.
+
+##### Our job as Software Developers is to create customer value
+
+As developer this is our job and something we must keep in mind all the time.
+This is alsp stated in the [Agile Manifesto](http://agilemanifesto.org/).
+
 ##### Being Agile
+
 She also stressed the importance of Agile manifesto. And pointed out that Agile is a way of thinking.
-And we should aim at having this way of thinking. Knowing the agile manifesto and doing it are different things.
-It's more important than ever to work agile and testing is a part of that.
-Preferable we should work in teams where the team has many different competences. Testers and developers should be in the the same team. 
-Preferable all developers should be the testers as well. We as software deliver should be T-shaped meaning that we have a broad competence but deep competence in one area.
+And we should aim at having this way of thinking and not just knowing what Agile is or thinging that we work Agile when we don't have the Agile way of thinking. 
+Knowing the agile manifesto and doing it are different things.
+It's more important than ever (because of time to market becoming important factor) to work agile and testing is a part of that.
+Testing should not me done in a different department by test specialized team. It should be as close to the the development team as possible in Agile.
+Preferable in Agile we should work in teams where the team has many different competences. Testers and developers should be in the the same team. 
+Preferable all developers should be the testers as well. We as software developer should be T-shaped meaning that we have a broad competence (tesing included) but deep competence in one area.
 
 
