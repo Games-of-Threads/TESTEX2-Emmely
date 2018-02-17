@@ -4,21 +4,26 @@
 _*a) Install Metrics software in your IDE (see tool examples in slides)*_ 
 [![https://gyazo.com/e09dacb427a1d5cd0a08226e18b71ac9](https://i.gyazo.com/e09dacb427a1d5cd0a08226e18b71ac9.png)](https://gyazo.com/e09dacb427a1d5cd0a08226e18b71ac9)
 
-b) [![https://gyazo.com/88a23d5915a2b86ad233b261a42e85fb](https://i.gyazo.com/88a23d5915a2b86ad233b261a42e85fb.png)](https://gyazo.com/88a23d5915a2b86ad233b261a42e85fb)
+_*b) Check coding standards in your Triangle program*_
+[![https://gyazo.com/88a23d5915a2b86ad233b261a42e85fb](https://i.gyazo.com/88a23d5915a2b86ad233b261a42e85fb.png)](https://gyazo.com/88a23d5915a2b86ad233b261a42e85fb)
 
-c) [![https://gyazo.com/05956fc247ca143da41a8f1992e78b29](https://i.gyazo.com/05956fc247ca143da41a8f1992e78b29.png)](https://gyazo.com/05956fc247ca143da41a8f1992e78b29)
+_*c) Calculate central metrics in your Triangle program – make screen dump*_ 
+[![https://gyazo.com/05956fc247ca143da41a8f1992e78b29](https://i.gyazo.com/05956fc247ca143da41a8f1992e78b29.png)](https://gyazo.com/05956fc247ca143da41a8f1992e78b29)
 
-d) The right column uses CC2 and the middle column uses CC.
+_*d) Find out what CC variation that your metrics tool uses*_
+The right column uses CC2 and the middle column uses CC.
 
-e) -
+_*e) Possibly refactor your code based on static testing results. You might also want somebody else to review your code  Write down what changes you make base on static techniques used.*_ 
+-
 
-f) -
+_*f) Write test cases in xUnit tool. Possibly refactor your code once (or twice more) in order to make the tests pass!*_
+-
 
 
 
 
 ## 3. Peer Review Checklist (2 SP) 
-*Smartbear has made a “Best practices for Code Review. One of the things on their list is to use checklists in the review process (tip #6). Explain their checklist in your own words, make comments on what you especially find useful in the list and possibly provide with examples.* 
+###### *Smartbear has made a “Best practices for Code Review. One of the things on their list is to use checklists in the review process (tip #6). Explain their checklist in your own words, make comments on what you especially find useful in the list and possibly provide with examples.* 
 
 My reflection:
 
