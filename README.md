@@ -124,7 +124,7 @@ The Acceptance criteria should be SMART, Specific, Measurable, Achievable, Relev
 As developer this is our job and something we must keep in mind all the time.
 
 
-### Some testing techniques she highlighted in the beginning
+##### Testing techniques she highlighted
 
 I understood that these techniques is what we should have as a minimum when developing software:
 - Review
@@ -132,6 +132,7 @@ I understood that these techniques is what we should have as a minimum when deve
 - Exploratory test of user stories
 - Automated regression test - Testing GUI
 
+##### Being Agile
 She also stressed the importance of Agile manifesto. And pointed out that Agile is a way of thinking.
 And we should aim at having this way of thinking. Knowing the agile manifesto and doing it are different things.
 It's more important than ever to work agile and testing is a part of that.
