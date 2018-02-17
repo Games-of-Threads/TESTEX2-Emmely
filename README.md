@@ -135,13 +135,13 @@ The Acceptance criteria should be SMART, Specific, Measurable, Achievable, Relev
 ##### Our job as Software Developers is to create customer value
 
 As developer this is our job and something we must keep in mind all the time.
-Stated in the [Agile Manifesto](http://agilemanifesto.org/) and something Gitte brought up.
+Stated in the [Agile Manifesto](http://Agilemanifesto.org/) and something Gitte brought up.
 
 She stressed the importance of Agile manifesto. And pointed out that Agile is a way of thinking.
 And we should aim at having this way of thinking and not just knowing what Agile is or think that we work Agile when we don't have the Agile way of thinking. 
-Knowing the agile manifesto and doing it are different things.
-It's more important than ever (because of time to market becoming important factor) to work agile and testing is a part of that.
-Testing should not me done in a different department by test specialized team. It should be as close to the the development team as possible in Agile.
+Knowing the Agile manifesto and doing it are different things.
+It's more important than ever (because of time to market becoming important factor) to work Agile and testing is a part of that.
+Testing should not be done in a different department by test specialized team. It should be as close to the the development team as possible in Agile.
 Preferable in Agile we should work in teams where the team has many different competences. Testers and developers should be in the the same team. 
 Preferable all developers should be the testers as well. We as software developer should be T-shaped meaning that we have a broad competence (tesing included) but deep competence in one area.
 
