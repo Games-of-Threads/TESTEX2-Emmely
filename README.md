@@ -86,7 +86,8 @@ We don't discover that until the second test where we see that the list is not e
 		underTest.addPerson(p);
 		assertEquals(0, underTest.getNrOfPeople());          
 	
-	}```
+	}
+```
 	
 2) We are missing an else statement in the code under test.
 ```
@@ -99,7 +100,8 @@ We don't discover that until the second test where we see that the list is not e
 		else{	
 			people.add(person);     
 		}
-	}```
+	}
+```
 
 
 ## 5. Coding Standard Document (1 SP) 
