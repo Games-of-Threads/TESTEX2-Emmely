@@ -2,22 +2,25 @@
 ## 1 9.5
 ## 2. Static Code Analysis of Triangle program (4 SP) 
 ###### *a) Install Metrics software in your IDE (see tool examples in slides)* 
+[MetricsReloaded](https://plugins.jetbrains.com/plugin/93-metricsreloaded) compatible with IntelliJ IDEA.
+
 [![https://gyazo.com/e09dacb427a1d5cd0a08226e18b71ac9](https://i.gyazo.com/e09dacb427a1d5cd0a08226e18b71ac9.png)](https://gyazo.com/e09dacb427a1d5cd0a08226e18b71ac9)
 
 ###### *b) Check coding standards in your Triangle program*
+In IntelliJ IDEA I opened up Settings -> Editor -> Code Style -> Java
 [![https://gyazo.com/88a23d5915a2b86ad233b261a42e85fb](https://i.gyazo.com/88a23d5915a2b86ad233b261a42e85fb.png)](https://gyazo.com/88a23d5915a2b86ad233b261a42e85fb)
 
 ###### *c) Calculate central metrics in your Triangle program – make screen dump* 
 [![https://gyazo.com/b9eac1e4d63a936e1e142860dd8bd791](https://i.gyazo.com/b9eac1e4d63a936e1e142860dd8bd791.png)](https://gyazo.com/b9eac1e4d63a936e1e142860dd8bd791)
 
 ###### *d) Find out what CC variation that your metrics tool uses*
-The right column uses CC2 and the middle column uses CC.
+The right column v(G) uses CC2 and the middle column iv(G) uses CC.
 
 ###### *e) Possibly refactor your code based on static testing results. You might also want somebody else to review your code  Write down what changes you make base on static techniques used.* 
 -
 
 ###### *f) Write test cases in xUnit tool. Possibly refactor your code once (or twice more) in order to make the tests pass!*
-I have used Javas jUnit4 library to write [test cases](https://github.com/Games-of-Threads/TESTEX2-Emmely/blob/master/tests/TriangleTest.java).
+I have used Javas jUnit4 library to write [my test cases of the Triangle program](https://github.com/Games-of-Threads/TESTEX2-Emmely/blob/master/tests/TriangleTest.java).
 
 
 
