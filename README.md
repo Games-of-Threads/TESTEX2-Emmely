@@ -1,7 +1,7 @@
 # TESTEX2-Emmely
 ## 1 9.5
 ## 2. Static Code Analysis of Triangle program (4 SP) 
-###### *a) Install Metrics software in your IDE (see tool examples in slides)* 
+###### *a) I have install Metrics software in your IDE (see tool examples in slides)* 
 [MetricsReloaded](https://plugins.jetbrains.com/plugin/93-metricsreloaded) compatible with IntelliJ IDEA.
 
 [![https://gyazo.com/e09dacb427a1d5cd0a08226e18b71ac9](https://i.gyazo.com/e09dacb427a1d5cd0a08226e18b71ac9.png)](https://gyazo.com/e09dacb427a1d5cd0a08226e18b71ac9)
@@ -14,7 +14,7 @@ In IntelliJ IDEA I opened up Settings -> Editor -> Code Style -> Java
 [![https://gyazo.com/b9eac1e4d63a936e1e142860dd8bd791](https://i.gyazo.com/b9eac1e4d63a936e1e142860dd8bd791.png)](https://gyazo.com/b9eac1e4d63a936e1e142860dd8bd791)
 
 ###### *d) Find out what CC variation that your metrics tool uses*
-The right column v(G) uses CC2 and the middle column iv(G) uses CC.
+In the picture above: The right column v(G) uses CC2 and the middle column iv(G) uses CC.
 
 ###### *e) Possibly refactor your code based on static testing results. You might also want somebody else to review your code  Write down what changes you make base on static techniques used.* 
 -
