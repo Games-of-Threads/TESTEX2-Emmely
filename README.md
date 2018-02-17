@@ -44,8 +44,8 @@ My reflection on point 1 and 10 is that they both make the programmer more refle
 of his/her work thus self improving their own code.
 
 My reflection regarding point 10 is also that a daily interaction to review code also opens up for
-questions. Lets say that a programmer is in doubt of either requirements or the solution or implementation.
-A daily interaction helps clarify requirements and technical implementation.
+questions. Lets say that a programmer is in doubt of either Requirements or the solution or implementation.
+A daily interaction helps clarify Requirements and technical implementation.
 In Agile we strive as much as possible for transparency and communication.
 
 
@@ -111,24 +111,24 @@ Here are the three most essential things mentioned during the presentation in my
 
 ##### Build quality in - because it's cheaper
 
-As software developers it's a must to use tools like Unit test and automated tests, continues delivery and integration tools and other tools to assure quality in software. 
+As Software Developers it's a must to use tools like Unit tests and Automated tests, Continues Delivery and Integration and other tools and techniques to assure quality in software. 
 
 Minimum testing that should be performed on any software:
 
-I understood that these techniques is what we should have as a minimum when developing software:
+These techniques is what we should have as a minimum to assure quality when developing software:
 - Review
-- Unit test
-- Exploratory test of user stories
-- Automated regression test - Testing GUI
+- Unit Test
+- Exploratory Test of User Stories
+- Automated Regression Test - Testing GUI
 
 ##### Avoid bugs early
 
-Gitte showed slides of how most of the Software "bugs" are created in the Requirements phase when the software when he software hasn't even been developed.
-This was a eye opener for me personally. I didn't know that there exist this kind of statistics.
+Gitte showed slides of how most of the Software "bugs" are created in the Requirements phase when the software hasn't even been developed.
+This statistics and facts were new to me, an eye opener for me personally.
 She showed for every phase we introduce more bugs and the total adds up to a very big number in the final product.
-We need to avoid bugs being created as early as possible starting with requirements. 
-Making test cases of the requirements Use Cases is one way to find that we have understood the requirements.
-Talk through requirements and test cases with users and stakeholders make sure we understand what they need and that we as software devepers don't make our own assumptions and interpretations.
+We need to avoid bugs being created as early as possible starting with Requirements. 
+Creating Test Cases of the Requirements is one way to make sure we have understood the Requirements and avoiding bugs.
+Talking through the Requirements and Test Cases with users and stakeholders we make sure we understand what they need and that we as Software Developers don't make our own assumptions and interpretations.
 User stories leads to Acceptance Criteria. The Acceptance Criteria is our Software Requirements (something we must remember).
 The Acceptance criteria should be SMART, Specific, Measurable, Achievable, Relevant, Time Specific.
 
