@@ -1,22 +1,22 @@
 # TESTEX2-Emmely
 ## 1
 ## 2. Static Code Analysis of Triangle program (4 SP) 
-_*a) Install Metrics software in your IDE (see tool examples in slides)*_ 
+###### *a) Install Metrics software in your IDE (see tool examples in slides)* 
 [![https://gyazo.com/e09dacb427a1d5cd0a08226e18b71ac9](https://i.gyazo.com/e09dacb427a1d5cd0a08226e18b71ac9.png)](https://gyazo.com/e09dacb427a1d5cd0a08226e18b71ac9)
 
-_*b) Check coding standards in your Triangle program*_
+###### *b) Check coding standards in your Triangle program*
 [![https://gyazo.com/88a23d5915a2b86ad233b261a42e85fb](https://i.gyazo.com/88a23d5915a2b86ad233b261a42e85fb.png)](https://gyazo.com/88a23d5915a2b86ad233b261a42e85fb)
 
-_*c) Calculate central metrics in your Triangle program – make screen dump*_ 
+###### *c) Calculate central metrics in your Triangle program – make screen dump* 
 [![https://gyazo.com/05956fc247ca143da41a8f1992e78b29](https://i.gyazo.com/05956fc247ca143da41a8f1992e78b29.png)](https://gyazo.com/05956fc247ca143da41a8f1992e78b29)
 
-_*d) Find out what CC variation that your metrics tool uses*_
+###### *d) Find out what CC variation that your metrics tool uses*
 The right column uses CC2 and the middle column uses CC.
 
-_*e) Possibly refactor your code based on static testing results. You might also want somebody else to review your code  Write down what changes you make base on static techniques used.*_ 
+###### *e) Possibly refactor your code based on static testing results. You might also want somebody else to review your code  Write down what changes you make base on static techniques used.* 
 -
 
-_*f) Write test cases in xUnit tool. Possibly refactor your code once (or twice more) in order to make the tests pass!*_
+###### *f) Write test cases in xUnit tool. Possibly refactor your code once (or twice more) in order to make the tests pass!*
 -
 
 
@@ -58,7 +58,7 @@ Our goal is to deliver good quality software. Lesser issue reports from customer
 
 
 ## 4. Review code that mysteriously fails its unit tests (1 SP) 
-*Please review this code, as the tests do not succeed as expected. Can you fix it?*
+###### *Please review this code, as the tests do not succeed as expected. Can you fix it?*
 
 In TestCatalog the following method will fail:
 
@@ -91,8 +91,11 @@ In class Catalog
 		}
 	}
 
-	
-	Coding standards that I find the most important:
+
+## 5. Coding Standard Document (1 SP) 
+###### *List the coding standards - best practices and code conventions - that you find most important for a team to follow (½ - 1 page).* 
+
+##### Coding standards that I find the most important:
 	
 1) Correctly indent the code.
 2) Use best practices for the specific language for naming conversions.
