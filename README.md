@@ -1,8 +1,9 @@
-# TESTEX2-Emmely 
+# Static Test Techniques Exercise (10 Study points - non-mandatory) 
+-------------------------
 Emmely Lundberg - cph-el69
 
 GitHub repo: https://github.com/Games-of-Threads/TESTEX2-Emmely
-
+-----------------------------------
 ## 1.
  9.5
 ## 2. Static Code Analysis of Triangle program (4 SP) 
