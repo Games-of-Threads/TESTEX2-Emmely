@@ -119,7 +119,7 @@ We don't discover that until the second test where we see that the list is not e
 3) Best practices for naming and structuring files and folders. For example structure third party library in a separate folder according to best practice. 
 4) Code Refactoring. Refactor when methods, functions or files become to lengthy. The motto is refactor early, refactor often.
 5) Capitalize SQL Special Words. To avoid confusion.
-6) Use same file format ans white space. Different file formats and white spaces in a team can lead to unnecessary Git conflicts when Git or other versioning tools merge.
+6) Use same file format and white space. Different file formats and white spaces in a team can lead to unnecessary Git conflicts when Git or other versioning tools merge the code.
 
 
 
