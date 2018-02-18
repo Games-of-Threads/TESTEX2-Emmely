@@ -72,7 +72,7 @@ Our goal is to deliver good quality software. Lesser issue reports from customer
 ## 4. Review code that mysteriously fails its unit tests (1 SP) 
 ###### *Please review this code, as the tests do not succeed as expected. Can you fix it?*
 
-In TestCatalog the following method will fail:
+In class TestCatalog the following method will fail:
 
 addingAnAdultShouldSucceed()
 
@@ -114,12 +114,12 @@ We don't discover that until the second test where we see that the list is not e
 
 ##### Coding standards that I find the most important:
 	
-1) Correctly and consistent indent the code according to the programming language.
-2) Consistent naming conversions, according to best practise. CamelCase is usually best practice for JAVA and JavaScript. Spme properties within the language as special naming conversions such as constants that we usually capitalize in Java and JavaScript
+1) Correctly and consistent code indentation according to the programming language.
+2) Consistent naming conversions, according to best practise. CamelCase is usually best practice for Java and JavaScript. Some properties within the language as special naming conversions such as constants that we usually capitalize in Java and JavaScript
 3) Best practices for naming and structuring files and folders. For example structure third party library in a separate folder according to best practice. 
-4) Code Refactoring. Refactoring for example when methods functions or files become to lengthy we should refactoring the code. refactor early, refactor often.
+4) Code Refactoring. Refactor when methods, functions or files become to lengthy. The motto is refactor early, refactor often.
 5) Capitalize SQL Special Words. To avoid confusion.
-6) Use same file format ans white space. Different file formats and white spaces in a team can lead to unnecessary git conflicts on code merge.
+6) Use same file format ans white space. Different file formats and white spaces in a team can lead to unnecessary Git conflicts when Git or other versioning tools merge.
 
 
 
