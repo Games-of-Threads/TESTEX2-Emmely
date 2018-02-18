@@ -1,4 +1,8 @@
-# TESTEX2-Emmely
+# TESTEX2-Emmely 
+Emmely Lundberg - cph-el69
+
+GitHub repo: https://github.com/Games-of-Threads/TESTEX2-Emmely
+
 ## 1.
  9.5
 ## 2. Static Code Analysis of Triangle program (4 SP) 
