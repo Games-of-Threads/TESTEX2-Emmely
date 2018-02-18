@@ -1,5 +1,5 @@
 # Static Test Techniques Exercise (10 Study points - non-mandatory) 
--------------------------
+
 Emmely Lundberg - cph-el69
 
 GitHub repo: https://github.com/Games-of-Threads/TESTEX2-Emmely
@@ -24,7 +24,7 @@ In IntelliJ IDEA I opened up Settings -> Editor -> Code Style -> Java
 In the picture above: The right column v(G) uses CC2 and the middle column iv(G) uses CC.
 
 ###### *e) Possibly refactor your code based on static testing results. You might also want somebody else to review your code  Write down what changes you make base on static techniques used.* 
--
+The code is within recommended maximum 10 CC. 
 
 ###### *f) Write test cases in xUnit tool. Possibly refactor your code once (or twice more) in order to make the tests pass!*
 I have used Javas jUnit4 library to write [my test cases of the Triangle program](https://github.com/Games-of-Threads/TESTEX2-Emmely/blob/master/tests/TriangleTest.java).
