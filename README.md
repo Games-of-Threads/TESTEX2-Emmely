@@ -1,5 +1,6 @@
 # TESTEX2-Emmely
-## 1 9.5
+## 1.
+ 9.5
 ## 2. Static Code Analysis of Triangle program (4 SP) 
 ###### *a) Install Metrics software in your IDE (see tool examples in slides)* 
 
@@ -43,7 +44,7 @@ Here are what I find most useful and some examples:
 > prior to giving it to their team for review, fewer defects were found.
 
 My reflection on point 1 is that the annotation in the code automatically leads to better code standard and comments in the code.
-This in turn could make the code easier to read and maintain by other developers in the future. 
+This in turn could make the code easier to read and maintain by other developers in the future. An extra bonus.
 
 > (10).Do A Certain Amount Of Code Review Each Day, Even If It's Not Every Line.
 It's state that 
@@ -52,12 +53,12 @@ It's state that
 
 
 My reflection on point 1 and 10 is that they both make the programmer more reflective of and conscious
-of his/her work thus self improving their own code.
+of his/her work thus self improving their own code which is what we strive for.
 
 My reflection regarding point 10 is also that a daily interaction to review code also opens up for
 questions. Lets say that a programmer is in doubt of either Requirements, the solution or implementation.
 A daily interaction helps clarify Requirements and technical implementation.
-In Agile we strive as much as possible for interaction and communication.
+In Agile we strive as much as possible for interaction and communication often.
 
 
 > (3). Have A System To Capture Metrics So You Can Improve Your Processes
